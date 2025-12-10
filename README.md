@@ -1,0 +1,1 @@
+The Amazon Clone is a responsive e-commerce web application that replicates key features of Amazon’s user interface. It includes product listings, category sections, navigation bar, and shopping cart UI. Built using modern front-end technologies, the project focuses on layout design, clean UI, and real-world e-commerce experience simulation.
